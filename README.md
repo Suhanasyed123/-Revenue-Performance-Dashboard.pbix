@@ -22,13 +22,13 @@ This dashboard helps businesses track revenue growth, identify trends, and measu
 - DAX for Calculated Metrics
 - Interactive Data Visualization
 
-## 👅 How to Use
+## 📥 How to Use
 1. **Download the `.pbix` file** from this repository.
 2. Open it in **Power BI Desktop**.
 3. Ensure the required datasets are available.
 4. Explore the interactive charts and insights.
 
-## 💌 Contact
+## 📬Contact
 For any queries, feel free to connect:
 - **LinkedIn:** [www.linkedin.com/in/syed-suhana]
 - **Email:** [suhanasyed590@gmail.com]
